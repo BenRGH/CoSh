@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="CoSh___Complete.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings />
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <CoSh___Complete.My.MySettings>
+            <setting name="DayTotal" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="DayCustomers" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="DayAverageSpend" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="DayItemsSold" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AllTotal" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AllCustomers" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AllAverageSpend" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AllItemsSold" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="EndOfDay" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="DateOfLastOrder" serializeAs="String">
+                <value>2015-05-28</value>
+            </setting>
+        </CoSh___Complete.My.MySettings>
+    </userSettings>
+</configuration>
